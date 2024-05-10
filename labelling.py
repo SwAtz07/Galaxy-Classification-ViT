@@ -7,7 +7,7 @@ import zipfile
 import pandas as pd
 
 # Ensure you're in the correct working directory
-os.chdir('/path/to/your/working/directory')  # Change to your working directory
+os.chdir('/rusers/postgrad/sramesh/Galaxy-Classification-ViT')  # Change to your working directory
 
 # Ensure the required directories exist
 data_folder = 'data'  # This will hold the dataset and other files
